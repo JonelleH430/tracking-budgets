@@ -10,4 +10,4 @@ A project for creating a budget tracker
 
 ### Advisory
 
-The app is not yet deployed through heroku yet. I still need a bit more practice with deploying throug mongodb atlas
+The app is not yet deployed through heroku yet. I still need a bit more practice with deploying through mongodb atlas
