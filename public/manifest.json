@@ -1,0 +1,50 @@
+{
+    "name": "tracking-budgets",
+    "short_name": "tracking",
+    "start_url": "/",
+    "theme_color": "#ffffff",
+    "background_color": "#D3D3D3",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/icons/budget-icon-1.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "/icons/budget-icon-2.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/icons/budget-icon-3.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/icons/budget-icon-4.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/icons/budget-icon-5.png",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "/icons/budget-icon-6.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/icons/budget-icon-7.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "/icons/budget-icon-8.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
